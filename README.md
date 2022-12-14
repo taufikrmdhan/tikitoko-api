@@ -1,4 +1,4 @@
-# Tikitoko (Bakcend)
+# Tikitoko (Backend)
 
 <!-- Logo -->
 
